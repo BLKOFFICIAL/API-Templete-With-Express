@@ -1,0 +1,17 @@
+{
+  "name": "API-Templete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "adithyadev_blk",
+  "license": "ISC",
+  "dependencies": {
+    "api-crafter": "^1.0.8",
+    "path": "^0.12.7",
+    "weather-js": "^2.0.0"
+  }
+}
