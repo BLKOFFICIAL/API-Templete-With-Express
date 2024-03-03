@@ -16,6 +16,10 @@ git clone https://github.com/your_username/your_repository.git
 npm install
 ```
 
+## Run On ReplIt
+
+[![Run on Repl.it](https://replit.com/badge/github/echoepicmc/API-Templete-With-Express)](https://replit.com/@echoepicmc/API-Templete-With-Express?v=1)
+
 ## Usage
 
 1. Customize your API configuration by modifying the `options` object in `index.js`.
@@ -52,6 +56,8 @@ npm start
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request.
+
+### Made By Adithyadev_blk
 
 ## License
 
