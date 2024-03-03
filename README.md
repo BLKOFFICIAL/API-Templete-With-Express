@@ -7,7 +7,7 @@ This project is an API template built using [api-crafter](https://www.npmjs.com/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/BLKOFFICIAL/API-Templete-With-Express.git
 ```
 
 2. Install dependencies:
